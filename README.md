@@ -18,8 +18,8 @@ This repository contains a machine learning project designed to classify graysca
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/brageaasen/Grayscale-HexDigit-Identification-with-SVM-and-Random-Forest.git
+   cd Grayscale-HexDigit-Identification-with-SVM-and-Random-Forest
 2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook hex_digit_recognizer.ipynb
